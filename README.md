@@ -1,14 +1,20 @@
-### Hi there 👋
+# Welcome To DOTXBT
 
-**dotxbt/dotxbt**
+Hello, I'm [Sabituddin Bigbang](https://instagram.com/sabituddin_bigbang) as Main Contributor.
 
-Here are some ideas to get you started:
+Don't forget to follow [**@dotxbt**](https://github.com/dotxbt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+> Stay hungry, Stay Foolish
+> - Steve Job
+
+### Just trying to be better
+- Frontend
+- Backend
+- Alogirthm
+- Language Tour
+- Coding Principle
+- Design Pattern
+- Clean Code
+- Project Structure
+- etc.......
+
