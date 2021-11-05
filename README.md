@@ -10,7 +10,7 @@ Don't forget to follow [**@dotxbt**](https://github.com/dotxbt)
 ### Just trying to be better
 - Frontend
 - Backend
-- Alogirthm
+- Algorithms
 - Language Tour
 - Coding Principle
 - Design Pattern
